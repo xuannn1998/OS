@@ -1,3 +1,3 @@
 # OS
 
-NCTU 2018 Fall Intro. to Compiler Design
+NCTU 2018 Fall Introduction to Operating Systems
